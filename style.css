@@ -12,8 +12,6 @@ header{
 header{
     border: solid 2xp rgb(156, 193, 241);
 
-    border: solid 2xp rgb(53, 72, 97);
-    padding: 20px;
 font-size: 32px;
 color: rgb(127, 177, 243);
 } 
@@ -22,23 +20,23 @@ color: rgb(127, 177, 243);
 section { 
     background: rgb(42, 122, 228)
 }
-section{
+section {
     background: rgb(34, 78, 199);
     padding-bottom: 80px;
-    paddint-top: 80px;
+    padding-top: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto {
+.chamada-texto{
     margin-right: 5%;
-} 
-
+}
 h1 {
     font-size: 40px;
 }
-
-
 p {
     font-size: 20px;
+}
+img {
+    height: 200px;
 }
